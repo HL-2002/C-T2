@@ -1,0 +1,15 @@
+/Users/henryjoselanglapenta/Projects/ejercicio01/ejercicio01/bin/Debug/net5.0/ejercicio01.deps.json
+/Users/henryjoselanglapenta/Projects/ejercicio01/ejercicio01/bin/Debug/net5.0/ejercicio01.runtimeconfig.json
+/Users/henryjoselanglapenta/Projects/ejercicio01/ejercicio01/bin/Debug/net5.0/ejercicio01.runtimeconfig.dev.json
+/Users/henryjoselanglapenta/Projects/ejercicio01/ejercicio01/bin/Debug/net5.0/ejercicio01.dll
+/Users/henryjoselanglapenta/Projects/ejercicio01/ejercicio01/bin/Debug/net5.0/ref/ejercicio01.dll
+/Users/henryjoselanglapenta/Projects/ejercicio01/ejercicio01/bin/Debug/net5.0/ejercicio01.pdb
+/Users/henryjoselanglapenta/Projects/ejercicio01/ejercicio01/obj/Debug/net5.0/ejercicio01.csprojAssemblyReference.cache
+/Users/henryjoselanglapenta/Projects/ejercicio01/ejercicio01/obj/Debug/net5.0/ejercicio01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henryjoselanglapenta/Projects/ejercicio01/ejercicio01/obj/Debug/net5.0/ejercicio01.AssemblyInfoInputs.cache
+/Users/henryjoselanglapenta/Projects/ejercicio01/ejercicio01/obj/Debug/net5.0/ejercicio01.AssemblyInfo.cs
+/Users/henryjoselanglapenta/Projects/ejercicio01/ejercicio01/obj/Debug/net5.0/ejercicio01.csproj.CoreCompileInputs.cache
+/Users/henryjoselanglapenta/Projects/ejercicio01/ejercicio01/obj/Debug/net5.0/ejercicio01.dll
+/Users/henryjoselanglapenta/Projects/ejercicio01/ejercicio01/obj/Debug/net5.0/ref/ejercicio01.dll
+/Users/henryjoselanglapenta/Projects/ejercicio01/ejercicio01/obj/Debug/net5.0/ejercicio01.pdb
+/Users/henryjoselanglapenta/Projects/ejercicio01/ejercicio01/obj/Debug/net5.0/ejercicio01.genruntimeconfig.cache
