@@ -1,0 +1,12 @@
+/Users/henryjoselanglapenta/Projects/ejericio02/ejericio02/obj/Debug/netcoreapp3.1/ejericio02.csprojAssemblyReference.cache
+/Users/henryjoselanglapenta/Projects/ejericio02/ejericio02/obj/Debug/netcoreapp3.1/ejericio02.AssemblyInfoInputs.cache
+/Users/henryjoselanglapenta/Projects/ejericio02/ejericio02/obj/Debug/netcoreapp3.1/ejericio02.AssemblyInfo.cs
+/Users/henryjoselanglapenta/Projects/ejericio02/ejericio02/obj/Debug/netcoreapp3.1/ejericio02.csproj.CoreCompileInputs.cache
+/Users/henryjoselanglapenta/Projects/ejericio02/ejericio02/bin/Debug/netcoreapp3.1/ejericio02.deps.json
+/Users/henryjoselanglapenta/Projects/ejericio02/ejericio02/bin/Debug/netcoreapp3.1/ejericio02.runtimeconfig.json
+/Users/henryjoselanglapenta/Projects/ejericio02/ejericio02/bin/Debug/netcoreapp3.1/ejericio02.runtimeconfig.dev.json
+/Users/henryjoselanglapenta/Projects/ejericio02/ejericio02/bin/Debug/netcoreapp3.1/ejericio02.dll
+/Users/henryjoselanglapenta/Projects/ejericio02/ejericio02/bin/Debug/netcoreapp3.1/ejericio02.pdb
+/Users/henryjoselanglapenta/Projects/ejericio02/ejericio02/obj/Debug/netcoreapp3.1/ejericio02.dll
+/Users/henryjoselanglapenta/Projects/ejericio02/ejericio02/obj/Debug/netcoreapp3.1/ejericio02.pdb
+/Users/henryjoselanglapenta/Projects/ejericio02/ejericio02/obj/Debug/netcoreapp3.1/ejericio02.genruntimeconfig.cache
