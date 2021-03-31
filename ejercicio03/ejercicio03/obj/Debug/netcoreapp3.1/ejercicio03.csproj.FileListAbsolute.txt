@@ -1,0 +1,12 @@
+/Users/henryjoselanglapenta/Projects/ejercicio03/ejercicio03/bin/Debug/netcoreapp3.1/ejercicio03.deps.json
+/Users/henryjoselanglapenta/Projects/ejercicio03/ejercicio03/bin/Debug/netcoreapp3.1/ejercicio03.runtimeconfig.json
+/Users/henryjoselanglapenta/Projects/ejercicio03/ejercicio03/bin/Debug/netcoreapp3.1/ejercicio03.runtimeconfig.dev.json
+/Users/henryjoselanglapenta/Projects/ejercicio03/ejercicio03/bin/Debug/netcoreapp3.1/ejercicio03.dll
+/Users/henryjoselanglapenta/Projects/ejercicio03/ejercicio03/bin/Debug/netcoreapp3.1/ejercicio03.pdb
+/Users/henryjoselanglapenta/Projects/ejercicio03/ejercicio03/obj/Debug/netcoreapp3.1/ejercicio03.csprojAssemblyReference.cache
+/Users/henryjoselanglapenta/Projects/ejercicio03/ejercicio03/obj/Debug/netcoreapp3.1/ejercicio03.AssemblyInfoInputs.cache
+/Users/henryjoselanglapenta/Projects/ejercicio03/ejercicio03/obj/Debug/netcoreapp3.1/ejercicio03.AssemblyInfo.cs
+/Users/henryjoselanglapenta/Projects/ejercicio03/ejercicio03/obj/Debug/netcoreapp3.1/ejercicio03.csproj.CoreCompileInputs.cache
+/Users/henryjoselanglapenta/Projects/ejercicio03/ejercicio03/obj/Debug/netcoreapp3.1/ejercicio03.dll
+/Users/henryjoselanglapenta/Projects/ejercicio03/ejercicio03/obj/Debug/netcoreapp3.1/ejercicio03.pdb
+/Users/henryjoselanglapenta/Projects/ejercicio03/ejercicio03/obj/Debug/netcoreapp3.1/ejercicio03.genruntimeconfig.cache
