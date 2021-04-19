@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ejercicio04_Juego_De_La_Vida/1.0.0": {
+        "runtime": {
+          "ejercicio04_Juego_De_La_Vida.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejercicio04_Juego_De_La_Vida/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
